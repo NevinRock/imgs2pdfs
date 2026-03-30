@@ -105,7 +105,7 @@ Parameters:
 
 ------
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.8+
 - Pillow
@@ -119,7 +119,7 @@ pip install Pillow PyPDF2
 
 ------
 
-## 🛠️ Example
+##  Example
 
 Run:
 
